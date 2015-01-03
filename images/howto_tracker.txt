@@ -1,0 +1,3 @@
+Copy to your omnet directory:
+cp tracker.png ~/bin/omnetpp-4.6/images/device/ 
+
